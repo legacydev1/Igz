@@ -51,8 +51,8 @@ except ImportError:
 #  CONFIGURATION (Environment Variables only)
 # ===========================================================================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
-ALLOWED_CHAT_ID = os.getenv("ALLOWED_CHAT_ID", "").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8245360364:AAGB1xYGpUIN9OsdS9RjUQyouHX0eQTPC_c").strip()
+ALLOWED_CHAT_ID = os.getenv("ALLOWED_CHAT_ID", "7669164275").strip()
 
 CATBOX_IMAGE_URL = "https://files.catbox.moe/61tqb5.png"
 
